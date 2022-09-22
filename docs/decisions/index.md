@@ -1,6 +1,6 @@
 # Architectural Decision Log
 
-This log lists the architectural decisions for [project name].
+This log lists the architectural decisions for the Nava Platform.
 
 <!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
 
