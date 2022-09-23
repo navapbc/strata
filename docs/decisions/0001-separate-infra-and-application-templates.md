@@ -4,7 +4,6 @@
 * Deciders: @rocketnova @lorenyu
 * Date: 2022-09-08
 
-Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 ## Context and Problem Statement
 
