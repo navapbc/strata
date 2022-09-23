@@ -40,11 +40,6 @@ Add something like this to instructions in [template-infra](https://github.com/n
 # fetch latest version of template-infra
 git clone --single-branch --branch main --depth 1 git@github.com:navapbc/template-infra.git
 
-# add .gitignore lines
-touch .gitignore
-echo >> .gitignore # add newline
-cat template-infra/.gitignore >> .gitignore
-
 # copy docker-compose.yml
 cp template-infra/docker-compose.yml .
 
