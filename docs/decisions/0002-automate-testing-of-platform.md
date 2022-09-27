@@ -8,7 +8,13 @@ Technical Story: Spike: Automated testing for platform [[#6](https://github.com/
 
 ## Context and Problem Statement
 
-Testing the platform currently requires multiple time-consuming steps, involving creating a new repo, copying over template code, creating infrastructure from template code, and verifying that CI and CD works. Furthermore, splitting up the platform into separate template-infra and template-application-* repositories increases the importance of testing the pieces together in an integrated fashion. In order to sustainably maintain development of the platform, we need a way to test the platform in an automated fashion.
+Testing the platform currently requires multiple time-consuming steps, involving
+creating a new repo, copying over template code, creating infrastructure from
+template code, and verifying that CI and CD works. Furthermore, splitting up the
+platform into separate template-infra and template-application-* repositories
+increases the importance of testing the pieces together in an integrated
+fashion. In order to sustainably maintain development of the platform, we need a
+way to test the platform in an automated fashion.
 
 ## Proposal
 
