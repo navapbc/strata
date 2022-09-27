@@ -1,0 +1,6 @@
+# Allow creation of collapsable sections in Markdown
+# (See https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
+MD033:
+  allowed_elements:
+  - summary
+  - details
