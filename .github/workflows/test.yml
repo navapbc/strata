@@ -1,0 +1,17 @@
+name: Test Platform
+
+on:
+  workflow_dispatch
+
+jobs:
+  test:
+    name: Test Platform
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create test repository
+        run: |
+          REPO_ID=${{ env.GITHUB_RUN_NUMBER }} make test-repo
+      - name: Delete test repository
+        run: |
+          REPO_ID=${{ env.GITHUB_RUN_NUMBER }} make delete-test-repo
