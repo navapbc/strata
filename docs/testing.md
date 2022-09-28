@@ -24,8 +24,18 @@ to that token value.
 
 ## Run tests locally
 
-Run `make test` with a unique `REPO_ID` (e.g. use your username and/or a unique number). For example
+Run `make test-repo` with a unique `REPO_ID` (e.g. use your username and/or a
+unique number). For example:
 
 ```bash
-REPO_ID=lorenyu-001 make test
+REPO_ID=lorenyu-001 make test-repo
+```
+
+## Clean up after running tests
+
+Run `make delete-test-repo` with the same `REPO_ID` that you used to create
+the repo to delete the repo.
+
+```bash
+REPO_ID=lorenyu-001 make delete-test-repo
 ```
