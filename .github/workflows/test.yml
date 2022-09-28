@@ -3,6 +3,9 @@ name: Test Platform
 on:
   workflow_dispatch
 
+env:
+  GH_TOKEN: ${{secrets.PLATFORM_TESTER_GITHUB_TOKEN}}
+
 jobs:
   test:
     name: Test Platform

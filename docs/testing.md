@@ -2,7 +2,7 @@
 
 ## Set up tests in GitHub Actions
 
-Set up `GH_TOKEN` as an environment variable secret. The token needs to have
+Set up `PLATFORM_TESTER_GITHUB_TOKEN` as secret. The token needs to have
 `repo:public_repo` and `delete_repo` scopes.
 
 ## Run tests in GitHub Actions
