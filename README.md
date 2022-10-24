@@ -11,9 +11,17 @@ Application templates allow project teams to quickly spin up new production read
 We currently have the following templates:
 
 - [template-infra](https://github.com/navapbc/template-infra) - Template for setting up application infrastructure, including infrastructure for operating terraform itself.
-- [template-application-nextjs](https://github.com/navapbc/template-application-nextjs) - Template for user-facing web applications built with NextJS.
+- [template-application-nextjs](https://github.com/navapbc/template-application-nextjs) - Template for user-facing web applications built with Next.js.
 - [template-application-flask](https://github.com/navapbc/template-application-flask) - Template for APIs and offline processes built with Python Flask.
 
-### Instructions
+### Getting started
 
-TODO
+A project repository can be created using one of the application templates above. This can be done one of two ways:
+
+1. [Create a new repo](https://github.com/new) and select the desired template.
+1. From the template repo itself: Click "Use this template".
+
+Once your project repo is created:
+
+1. Copy the [pull request template](./.github/pull_request_template.md). [Learn more about PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
+1. [Configure your repo settings](./docs/setup-new-repo.md)
