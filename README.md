@@ -1,6 +1,6 @@
 # Nava Platform
 
-Welcome to the Nava Platform! This is the home repository for Nava's Platform tools that empowers teams to accelerate their delivery through self-service tools and training.
+Welcome to the Nava Platform! This is the home repository for Nava's Platform tools that empower teams to accelerate their delivery through self-service tools and training.
 
 ## Platform Templates
 
@@ -10,11 +10,11 @@ We currently have the following templates:
 
 - [Infrastructure template](https://github.com/navapbc/template-infra) – this provides AWS infrastructure as well as some general non-infrastructure project tools like PR templates and ADR (architecture decision record) templates.
   - You can use the infrastructure template with either of the application templates, or with any other application that satisfies the infra template’s application requirements.
-You can also use the infrastructure template with multiple applications at a time, but it will require a few steps to accomplish that configuration (see What’s not available out of the box (yet))
+You can also use the infrastructure template with multiple applications at a time, but it will require a few steps to accomplish that configuration.
 - [TypeScript Nextjs application template](https://github.com/navapbc/template-application-nextjs) - Template for user-facing web applications built with Next.js.
   - This template can be used to build traditional server-based web applications. It can also be used to build APIs. However, if your project has a significant data engineering (e.g. ETL jobs and other batch processing jobs) component, a Python-based tech stack is recommended (see the Python Flask template).
-  - This template can also be used to build static sites, but is currently not configured that way out of the box and will require some effort (see What’s not available out of the box (yet))
-- [Python Flask application template](template-application-flask](https://github.com/navapbc/template-application-flask) - Template for APIs and offline processes built with Python Flask.
+  - This template can also be used to build static sites, but is currently not configured that way out of the box.
+- [Python Flask application template](https://github.com/navapbc/template-application-flask) - Template for APIs and offline processes built with Python Flask.
   - This template can be used to build APIs. It can also be used to build simple user-facing applications. However, if your  application is heavily on the frontend, you may want to consider using the Nextjs template since that comes already configured with internationalization, the US Web Design System, and Storybook.
 
 ### Getting started
