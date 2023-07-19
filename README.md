@@ -11,7 +11,7 @@ We currently have the following templates:
 - [Infrastructure template](https://github.com/navapbc/template-infra) – this provides AWS infrastructure as well as some general non-infrastructure project tools like PR templates and ADR (architecture decision record) templates.
   - You can use the infrastructure template with either of the application templates, or with any other application that satisfies the infra template’s application requirements.
 You can also use the infrastructure template with multiple applications at a time, but it will require a few steps to accomplish that configuration.
-- [TypeScript Nextjs application template](https://github.com/navapbc/template-application-nextjs) - Template for user-facing web applications built with Next.js.
+- [TypeScript Next.js application template](https://github.com/navapbc/template-application-nextjs) - Template for user-facing web applications built with the Next.js React framework.
   - This template can be used to build traditional server-based web applications. It can also be used to build APIs. However, if your project has a significant data engineering (e.g. ETL jobs and other batch processing jobs) component, a Python-based tech stack is recommended (see the Python Flask template).
   - This template can also be used to build static sites, but is currently not configured that way out of the box.
 - [Python Flask application template](https://github.com/navapbc/template-application-flask) - Template for APIs and offline processes built with Python Flask.
