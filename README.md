@@ -15,7 +15,7 @@ You can also use the infrastructure template with multiple applications at a tim
   - This template can be used to build traditional server-based web applications. It can also be used to build APIs. However, if your project has a significant data engineering (e.g. ETL jobs and other batch processing jobs) component, a Python-based tech stack is recommended (see the Python Flask template).
   - This template can also be used to build static sites, but is currently not configured that way out of the box.
 - [Python Flask application template](https://github.com/navapbc/template-application-flask) - Template for APIs and offline processes built with Python Flask.
-  - This template can be used to build APIs. It can also be used to build simple user-facing applications. However, if your  application is heavily on the frontend, you may want to consider using the Nextjs template since that comes already configured with internationalization, the US Web Design System, and Storybook.
+  - This template can be used to build APIs. It can also be used to build simple user-facing applications. However, if your  application is heavily on the frontend, you may want to consider using the Next.js template since that comes already configured with internationalization, the US Web Design System, and Storybook.
 
 ### Getting started
 
