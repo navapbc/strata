@@ -4,7 +4,9 @@ This log lists the architectural decisions for the Nava Platform.
 
 <!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
 
-- [ADR-0000](0000-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
+* [ADR-0000](0000-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
+* [ADR-0001](0001-rename-template-application-name.md) - Rename Template Applications to Use Template Name instead of `app`
+* [ADR-1](template.md) - [short title of solved problem and solution]
 
 <!-- adrlogstop -->
 
