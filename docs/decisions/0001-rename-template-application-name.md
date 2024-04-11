@@ -30,7 +30,7 @@ This has proven to not be the best fit for our templates because:
 Good because:
 
 * `app-*` is unique
-* `app-*` is uses our existing naming convention
+* `app-*` uses our existing naming convention
 * Using a name like this aligns well with the milestone to support multi-app because it will be easier to write tooling to find-and-replace a unique name
 * `template-application-*` is long and will run into character limitations, especially with terraform
 
