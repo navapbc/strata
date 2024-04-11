@@ -1,7 +1,7 @@
 # Rename Template Applications to Use Template Name instead of `app`
 
 * Status: Proposed
-* Deciders: @rocketnova, @sawyerh, @@@@, @@@@
+* Deciders: @rocketnova, @sawyerh, @coilysiren, @@@@
 * Date: ####-##-##
 
 ## Context
