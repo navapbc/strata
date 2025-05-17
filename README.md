@@ -8,7 +8,7 @@ Platform templates allow project teams to quickly spin up new production ready a
 
 We currently have the following templates:
 
-- [Infrastructure template](https://github.com/navapbc/template-infra) – this provides AWS infrastructure as well as some general non-infrastructure project tools like PR templates and ADR (architecture decision record) templates.
+- [Infrastructure template](https://github.com/navapbc/template-infra) – this provides infrastructure on AWS and Azure as well as some general non-infrastructure project tools like PR templates and ADR (architecture decision record) templates.
   - You can use the infrastructure template with either of the application templates, or with any other application that satisfies the infra template’s application requirements.
 You can also use the infrastructure template with multiple applications at a time, but it will require a few steps to accomplish that configuration.
 - [Ruby on Rails application template](https://github.com/navapbc/template-application-rails) - Template for web applications built with the Ruby on Rails framework.
