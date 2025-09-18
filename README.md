@@ -13,7 +13,7 @@ Whether you’re modernizing a legacy system or standing up a new program, Nava 
 Nava Strata currently includes:
 
 - **Infrastructure templates:** A set of templates for quickly setting up production-ready, cloud-native infrastructure  
-- **Application templates:** A set templates to quickly begin building user-facing and backend applications  
+- **Application templates:** A set of templates to quickly begin building user-facing and backend applications  
 - **Software Development Kit**: A suite of composable software development tools for building human-centered digital services applications 
 
 Leverage them together or separately, depending on your needs and goals.
