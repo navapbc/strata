@@ -45,7 +45,7 @@ Application templates allow project teams to quickly spin up new production read
 
 ### Strata CLI
 
-[The Strata CLI](https://github.com/navapbc/strata-cli) is a command line tool to make installing, upgrading, and using the Strata platform templates easy.
+[The Strata CLI](https://github.com/navapbc/strata-cli) is a command line tool to make installing, upgrading, and using the Strata templates easy.
 
 ## Getting started
 
