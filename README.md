@@ -18,7 +18,7 @@ Nava Strata currently includes:
 
 Leverage them together or separately, depending on your needs and goals.
 
-## Strata platform components
+## Strata components
 
 ### Strata infrastructure templates
 
