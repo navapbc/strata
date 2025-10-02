@@ -26,12 +26,12 @@ Use the infrastructure templates to quickly set up secure and production-ready i
 
 **[AWS infrastructure template](https://github.com/navapbc/template-infra)** – this provides AWS infrastructure as well as some general non-infrastructure project tools like PR templates and ADR (architecture decision record) templates.
 
-**[Azure infrastructure template](https://github.com/navapbc/template-infra-azure)** - this is the Azure equivalent of the AWS infrastructure template. Longer term we may consolidate this with the AWS infrastructure template to create a single consolidated infrastructure template that can be configured to use AWS or Azure.
+**[Azure infrastructure template](https://github.com/navapbc/template-infra-azure)** - this is the Azure equivalent of the AWS infrastructure template. Longer term, we may consolidate this with the AWS infrastructure template to create a single consolidated infrastructure template that can be configured to use AWS or Azure.
 You can also use the infrastructure template with multiple applications at a time, but it will require a few steps to accomplish that configuration.
 
 ### Strata application templates
 
-Application templates allow project teams to quickly spin up new production ready applications. Engineers can copy the templates to their own project's GitHub repository in order to get started more quickly. The templates provide many default technical decisions that represent best practices for implementing government systems. These best practices were evolved by Nava over many years of experience working on GovTech projects, and will continue to evolve. Strata application templates are available for Rails, Next.js, and Flask.
+Application templates allow project teams to quickly spin up new production ready applications. Engineers can copy the templates to their own project's GitHub repository in order to get started more quickly. The templates provide many default technical choices that represent best practices for implementing government systems. These best practices were evolved by Nava over many years of experience working on GovTech projects, and will continue to evolve. Strata application templates are available for Rails, Next.js, and Flask.
 
 **[The Rails template](https://github.com/navapbc/template-application-rails)** provides a template for web applications built with the Ruby on Rails framework. It has everything you need to build server-based web applications, including user-facing applications, APIs, and data engineering workflows. It comes integrated with the US Web Design System, adapters for AWS and Azure, and tools for supporting internationalization, authorization, automated testing, and more.
 
@@ -45,7 +45,7 @@ Application templates allow project teams to quickly spin up new production read
 
 ### Strata CLI
 
-[The Strata CLI](https://github.com/navapbc/strata-cli) is a command line tool to make installing, upgrading, and using the Strata platform templates easy.
+[The Strata CLI](https://github.com/navapbc/platform-cli) is a command line tool to make installing, upgrading, and using the Strata platform templates easy.
 
 ## Getting started
 
