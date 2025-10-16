@@ -1,6 +1,7 @@
-# Nava Strata
+
 
 <h1 align="center">
+  Nava Strata
   <img width="300" src="/img/logoname-white.svg#gh-dark-mode-only" alt="infisical">
 </h1>
 <p align="center">
@@ -26,8 +27,6 @@
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/navapbc/strata/total">
   </a>
 </h4>
-
-<img src="/img/Strata_github_repo.png" width="100%" alt="Dashboard" />
 
 ## About Strata
 
