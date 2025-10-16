@@ -1,6 +1,33 @@
 # Nava Strata
 
-Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.
+<h1 align="center">
+  <img width="300" src="/img/logoname-white.svg#gh-dark-mode-only" alt="infisical">
+</h1>
+<p align="center">
+  <p align="center"><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</p>
+</p>
+
+<h4 align="center">
+  <a href="https://navapbc.com">Website</a> |
+  <a href="https://navapbc.com/careers">Hiring (Remote)</a>
+</h4>
+
+<h4 align="center">
+  <a href="https://github.com/navapbc/strata/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-apache_2.0-red" alt="Nava Strata is released under the Apache 2.0 license" >
+  </a>
+  <a href="https://github.com/navapbc/strata/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs welcome!" />
+  </a>
+  <a href="https://github.com/navapbc/strata/issues">
+    <img src="https://img.shields.io/github/commit-activity/m/navapbc/strata" alt="git commit activity" />
+  </a>
+  <a href="https://github.com/navapbc/strata/repos/">
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/navapbc/strata/total">
+  </a>
+</h4>
+
+<img src="/img/Strata_github_repo.png" width="100%" alt="Dashboard" />
 
 ## About Strata
 
