@@ -1,0 +1,17 @@
+# More generic / higher level paths should be listed first.
+
+* @lorenyu # project lead
+
+/docs/  @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub # everyone
+
+/e2e/               @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+/documentation/e2e/ @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+
+/infra/               @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+/documentation/infra/ @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+
+/reporting-app/               @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+/documentation/reporting-app/ @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+
+/.github/                  @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
+/bin/                      @lorenyu @doshitan @baonguyenNava @MichaelCrawfordNava @abbas-nava @giverm @nkutub
