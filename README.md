@@ -9,11 +9,6 @@
 </p>
 
 <h4 align="center">
-  <a href="https://navapbc.com">Website</a> |
-  <a href="https://navapbc.com/careers">Hiring (Remote)</a>
-</h4>
-
-<h4 align="center">
   <a href="https://github.com/navapbc/strata/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-apache_2.0-red" alt="Nava Strata is released under the Apache 2.0 license" >
   </a>
