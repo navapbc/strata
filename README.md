@@ -5,7 +5,7 @@
   <img width="300" src="/img/logoname-white.svg#gh-dark-mode-only" alt="infisical">
 </h1>
 <p align="center">
-  <p align="center"><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</p>
+  <p align="center"><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</b></p>
 </p>
 
 <h4 align="center">
