@@ -62,7 +62,7 @@ Application templates allow project teams to quickly spin up new production read
 
 ### Strata SDK
 
-[The Strata Software Development Kit (SDK)](https://github.com/navapbc/strata-sdk) will help your agency’s developers create best-in-class case management systems, including multi-page intake applications and case management workflows. The SDK is modular, allowing you to integrate the components you need with your program. This means you can build a new system from scratch, or plug new features into your existing system.
+[The Strata Software Development Kit (SDK)](https://github.com/navapbc/flex-sdk) will help your agency’s developers create best-in-class case management systems, including multi-page intake applications and case management workflows. The SDK is modular, allowing you to integrate the components you need with your program. This means you can build a new system from scratch, or plug new features into your existing system.
 
 ### Strata CLI
 
