@@ -1,10 +1,8 @@
-
-
 <p>
   <img src="docs/assets/Nava-Strata-Logo-Clearspace-V01.svg" alt="Nava Strata" width="400">
 </p>
 <p>
-  <p align="center"><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</b></p>
+  <p><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</b></p>
 </p>
 
 <h4 align="center">
