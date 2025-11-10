@@ -79,4 +79,3 @@ To get started using the templates, first create a git repo for your project.
 
 - [Community engagement requirements reporting application for Medicaid](https://github.com/navapbc/community-engagement-medicaid) by Nava PBC
 - [Simpler Grants.gov redesign](https://github.com/HHS/simpler-grants-gov) by the Department of Health and Human Services
-- [Income Verification as a Service](https://github.com/DSACMS/iv-cbv-payroll) by the Centers for Medicaid and Medicare Services
