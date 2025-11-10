@@ -1,5 +1,5 @@
 <p>
-  <img src="docs/assets/Nava-Strata-Logo-V01.svg" alt="Nava Strata" width="400">
+  <img src="docs/assets/Nava-Strata-Logo-V02.svg" alt="Nava Strata" width="400">
 </p>
 <p>
   <p><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</b></p>
