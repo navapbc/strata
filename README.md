@@ -1,5 +1,5 @@
 <p>
-  <img src="docs/assets/Nava-Strata-Logo-Clearspace-V01.svg" alt="Nava Strata" width="400">
+  <img src="docs/assets/Nava-Strata-Logo-V01.svg" alt="Nava Strata" width="400">
 </p>
 <p>
   <p><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</b></p>
@@ -24,15 +24,15 @@
 
 Whether you’re modernizing a legacy system or standing up a new program, Nava Strata can help you:
 
-- Rapidly meet programmatic goals and build excellent experiences  
-- Adopt best practice workflows and security  
+- Rapidly meet programmatic goals and build excellent experiences
+- Adopt best practice workflows and security
 - Equip developers with best-in-class tools
 
 Nava Strata currently includes:
 
-- **Infrastructure templates:** A set of templates for quickly setting up production-ready, cloud-native infrastructure  
-- **Application templates:** A set of templates to quickly begin building user-facing and backend applications  
-- **Software Development Kit**: A suite of composable software development tools for building human-centered digital services applications 
+- **Infrastructure templates:** A set of templates for quickly setting up production-ready, cloud-native infrastructure
+- **Application templates:** A set of templates to quickly begin building user-facing and backend applications
+- **Software Development Kit**: A suite of composable software development tools for building human-centered digital services applications
 
 Leverage them together or separately, depending on your needs and goals.
 
