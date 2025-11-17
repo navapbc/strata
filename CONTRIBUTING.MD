@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Nava Strata! Strata is a gold-sta
 
 ## Community
 
-We are committed to providing a welcoming and inclusive environment for all contributors. All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+We are committed to providing a welcoming environment for all contributors. All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Bugs and issues
 
@@ -48,4 +48,4 @@ Reviewers will check for:
 - Update tests and documentation as needed
 - Re-request review after making changes
 
-Thank you for contributing to the Nava Strata! Your contributions help improve government digital service access for millions of Americans.
+Thank you for contributing to the Nava Strata!
