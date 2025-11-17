@@ -1,7 +1,7 @@
 {
   "name": "strata",
   "version": "1.0.0",
-  "description": "A platform that empowers teams to accelerate delivery through self-service tools and training.",
+  "description": "Open source tools for every layer of government service delivery. Strata is a gold-standard target architecture and suite of open source tools that gives government agencies everything they need to run a modern service.",
   "status": "Production",
   "permissions": {
     "licenses": [

@@ -1,9 +1,8 @@
 <p>
   <img src="docs/assets/Nava-Strata-Logo-V02.svg" alt="Nava Strata" width="400">
 </p>
-<p>
-  <p><b>Nava Strata is a modular, open-source platform that enables our government partners to rapidly and effectively modernize while avoiding vendor lock-in.</b></p>
-</p>
+<p><b>Strata is a gold-standard target architecture and suite of open-source tools that gives government agencies everything they need to run a modern service.</b></p>
+<p><i>Open source tools for every layer of government service delivery.</i></p>
 
 <h4 align="center">
   <a href="https://github.com/navapbc/strata/blob/main/LICENSE">
@@ -22,19 +21,22 @@
 
 ## About Strata
 
-Whether you’re modernizing a legacy system or standing up a new program, Nava Strata can help you:
+Strata provides government teams with proven, production-ready infrastructure, application templates, and development tooling. We have designed Strata around modern delivery, modularity, and vendor-agnostic interoperability.
 
-- Rapidly meet programmatic goals and build excellent experiences
-- Adopt best practice workflows and security
-- Equip developers with best-in-class tools
+With Strata, you can:
 
-Nava Strata currently includes:
+- Maintain full control over your long-term roadmap and vendor ecosystem
+- Inherit best practices and patterns to avoid mistakes or duplicative rework
+- Save months of time
+
+
+### What Strata includes
+
+Strata currently includes the following three categories of tools. Use them together or separately, depending on your needs and goals.
 
 - **Infrastructure templates:** A set of templates for quickly setting up production-ready, cloud-native infrastructure
 - **Application templates:** A set of templates to quickly begin building user-facing and backend applications
-- **Software Development Kit**: A suite of composable software development tools for building human-centered digital services applications
-
-Leverage them together or separately, depending on your needs and goals.
+- **Software Development Kit:** A suite of composable software development tools for building human-centered digital services applications
 
 ## Strata components
 

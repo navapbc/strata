@@ -1,6 +1,6 @@
 # Contributing to Nava Strata
 
-Thank you for your interest in contributing to Nava Strata! This project helps accelerate delivery of government digital services, and we welcome contributions from developers, designers, policy experts, and community members. This document outlines how members of the community should approach the contribution process.
+Thank you for your interest in contributing to Nava Strata! Strata is a gold-standard target architecture and suite of open source tools that gives government agencies everything they need to run a modern service. We welcome contributions from developers, designers, policy experts, and community members. This document outlines how members of the community should approach the contribution process.
 
 ## Community
 
