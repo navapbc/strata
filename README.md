@@ -61,7 +61,7 @@ Application templates allow project teams to quickly spin up new production read
 
 ### Strata SDK
 
-[The Strata Software Development Kit (SDK)](https://github.com/navapbc/flex-sdk) will help your agency’s developers create best-in-class case management systems, including multi-page intake applications and case management workflows. The SDK is modular, allowing you to integrate the components you need with your program. This means you can build a new system from scratch, or plug new features into your existing system.
+[The Strata Software Development Kit (SDK)](https://github.com/navapbc/strata-sdk-rails) will help your agency's developers create best-in-class case management systems, including multi-page intake applications and case management workflows. The SDK is modular, allowing you to integrate the components you need with your program. This means you can build a new system from scratch, or plug new features into your existing system.
 
 ### Strata CLI
 
@@ -73,7 +73,7 @@ To get started using the templates, first create a git repo for your project.
 
 1. If you are starting from scratch and need infrastructure, then start with the [infra template](https://github.com/navapbc/template-infra) and follow the instructions on the template's README to install the template in a single command line.
 2. Choose which application template you want to use and follow the instructions on the respective template's README to install the template.
-3. If you are building a government digital service, consider using the [Strata SDK](https://github.com/navapbc/strata-sdk) to build your application.
+3. If you are building a government digital service, consider using the [Strata SDK](https://github.com/navapbc/strata-sdk-rails) to build your application.
 
 ## Open source projects built on Strata
 
