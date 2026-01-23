@@ -11,12 +11,6 @@
   <a href="https://github.com/navapbc/strata/blob/main/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs welcome!" />
   </a>
-  <a href="https://github.com/navapbc/strata/issues">
-    <img src="https://img.shields.io/github/commit-activity/m/navapbc/strata" alt="git commit activity" />
-  </a>
-  <a href="https://github.com/navapbc/strata/repos/">
-    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/navapbc/strata/total">
-  </a>
 </h4>
 
 ## About Strata
